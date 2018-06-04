@@ -6,7 +6,7 @@ echo "
 Written by Brian Bushnell
 Last modified May 27, 2016
 
-Description:  Calculates per-scaffold coverage information from an unsorted sam or bam file.
+Description:  Calculates per-scaffold coverage information from an unsorted sam file.
 
 Usage:        pileup.sh in=<input> out=<output>
 
